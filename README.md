@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I am Jahid Hasan</h1>
 
 <br>
-<br>
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="humayunahmed8" width="40%" src="https://profile-counter.glitch.me/humayunahmed8/count.svg" />
-</p>
 
 - 🌱 I am Currently Mastering in **Flutter, Python, and Machine Larning**
 
@@ -18,10 +13,10 @@
 <a href="https://www.linkedin.com/in/jahid012/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jennifer-plothow/" height="30" width="40" /></a>
 </p>
 
-
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
+<br>
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="humayunahmed8" width="40%" src="https://profile-counter.glitch.me/jahid012/count.svg" />
 </p>
 
 # 💻 Tech Stack:
