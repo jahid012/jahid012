@@ -1,20 +1,11 @@
 <h1 align="center">Hi, I am Jahid Hasan</h1>
-<!-- 
-## 🤗 Welcome
-<p align=center>
-<div align=center>
-<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=0xLeO0&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=0xLeO0&theme=onedark" />
+
 <br>
 <br>
-<br>
-</div>
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="humayunahmed8" width="40%" src="https://profile-counter.glitch.me/humayunahmed8/count.svg" />
 </p>
-<br><br><br>
--->
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahid012&label=PROFILE%20VISITED&color=0e75b6&style=flat" alt="jahid012" /> </p>
 
 - 🌱 I am Currently Mastering in **Flutter, Python, and Machine Larning**
 
