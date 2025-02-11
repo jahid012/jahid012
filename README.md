@@ -16,7 +16,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahid012&label=PROFILE%20VISITED&color=0e75b6&style=flat" alt="jahid012" /> </p>
 
-- 🌱 Learning Data Analysis and Statistics **Python and Machine Larning**
+- 🌱 Currently Mastering in **Flutter, Python, and Machine Larning**
 
 - 💬 Ask me about **PHP, Laravel, SQL, Flutter, Python, and Machine Larning**
 
