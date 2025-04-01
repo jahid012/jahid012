@@ -2,9 +2,7 @@
 
 <br>
 
-- 🌱 I am Currently Mastering in **Flutter, Python, and Machine Larning**
-
-- 💬 Ask me about **PHP, Laravel, SQL, Flutter, Python, and Machine Larning**
+- 💬 Ask me about **WordPress, PHP, Laravel, SQL, Flutter, Python, and Machine Larning**
 
 - 📫 How to reach me **jahid11.bgd@gmail.com**
 
