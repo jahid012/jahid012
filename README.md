@@ -12,8 +12,9 @@
 </p>
 
 <br>
+<!--
 <h2 align="center">Visitor Count</h2>
-<!-- <p align="center">
+ <p align="center">
   <img align="center" alt="humayunahmed8" width="40%" src="https://profile-counter.glitch.me/jahid012/count.svg" />
 </p> -->
 
